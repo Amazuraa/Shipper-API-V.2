@@ -1,4 +1,10 @@
-import $ from 'jQuery'
+import $ from 'jQuery'  // Your jQuery..
+
+/* 
+    Shipper Site        : https://shipper.id/
+    Sandbox Account     : https://bos.sandbox.shipper.id/login
+    Docs & references   : https://logistics-docs.shipper.id/v2.13.0/docs
+*/
 
 var API_KEY = "Your API Key";
 
