@@ -1,6 +1,6 @@
 import $ from 'jQuery'
 
-var API_KEY = "VMznt2fFI6tjiC8AZaCmRuYwjJHI6K7XpFbshmgJvabFS85IPHVaYau9vb7K97Mu";
+var API_KEY = "Your API Key";
 
 function getAreas_postCode(num)
 {
